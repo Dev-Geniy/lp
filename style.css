@@ -244,7 +244,7 @@ body {
     background-color: #0077b5; /* Цвет кнопки LinkedIn */
 }
 
-        .twitter-icon {
+.twitter-icon {
             position: fixed;
             bottom: 10px;
             left: 10px;
@@ -255,7 +255,7 @@ body {
             transition: all 0.3s ease;
         }
 
-        .twitter-icon:hover {
+.twitter-icon:hover {
             opacity: 1;
             transform: scale(1.2);
         }
